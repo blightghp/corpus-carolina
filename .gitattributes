@@ -1,0 +1,2 @@
+# Git attributes configuration
+# Track large files normally without Git LFS filters since max file size is under 8MB
